@@ -18,7 +18,7 @@
         ```
 
 
- ![Desktop](./public/react%20toggler.gif)
+ ![Desktop](./public/react-toggler.gif)
 
  # Author
 ### Josué Ocanha Costa
