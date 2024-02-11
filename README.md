@@ -1,6 +1,20 @@
-# React + Vite
+# React + Vite - CONTEXT-API
 ## Toggle Theme Button
-### Projeto para fixar conceitos React e uso do Vite.
+## Como utilizar?
+* Certifique-se de ter o Node.js e npm instalados em seu sistema. Você pode baixá-los e instalá-los no site oficial do Node.js: Node.js.
+    * Clone o Repositorio: <br> 
+        <code>
+        git clone https://github.com/JosueCosta2023/react-context-api-conceito.git
+        </code>
+    * Instale as dependências do projeto: <br>
+        <code>
+        npm install
+        </code>
+    * Para iniciar use: <br>
+        <code>
+        npm start
+        </code> <br>-<br>
+
  ![Desktop](./public/react%20toggler.gif)
 
  # Author
