@@ -35,7 +35,7 @@ export const Card = () => {
             </CardLink>
             <h3>Josue Costa 2024</h3>
             <CardH1>Web-Developer</CardH1>
-            <h3>React ⚛️ Card</h3>
+            <h3>React <i class="fa-brands fa-react"></i> Card</h3>
 
         </CardContainer>
     )
